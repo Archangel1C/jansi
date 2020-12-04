@@ -91,7 +91,7 @@ System.out.println( ansi().eraseScreen().render("@|red Hello|@ @|green World|@")
 The JNI library that JANSI uses depends on the "Microsoft Visual C++ 2008 SP1 Redistributable"
 You can get a free copy from MS at:
 
-http://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=5582
+https://www.microsoft.com/en-us/download/details.aspx?id=26368
 
 ## Project Links
 
